@@ -1,0 +1,17 @@
+{
+  "name": "matthewmueller-clock",
+  "description": "swiss railway inspired clock",
+  "version": "0.1.0",
+  "keywords": [
+    "clock",
+    "swiss"
+  ],
+  "main": "index.js",
+  "styles": [
+    "clock.css"
+  ],
+  "dependencies": {
+    "component-domify": "git://github.com/npmcomponent/component-domify.git"
+  },
+  "license": "MIT"
+}

@@ -2,7 +2,7 @@
  * Module Dependencies
  */
 
-var domify = require('domify');
+var domify = require('component-domify');
 var el = domify(require('./template'));
 
 /**
